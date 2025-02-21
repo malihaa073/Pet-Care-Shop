@@ -7,6 +7,7 @@
           clifford: ['#da373d'],
           s: ['#FFF9F4'],
         },
+      
       },
     },
     plugins: [],
